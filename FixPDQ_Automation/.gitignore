@@ -1,0 +1,9 @@
+report
+node_modules
+screenshots
+videos
+reports
+package-lock.json
+report
+tsconfig.json
+cypress.schema.json

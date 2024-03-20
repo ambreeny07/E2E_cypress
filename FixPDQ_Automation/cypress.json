@@ -1,0 +1,11 @@
+{
+  "video":true,
+  "trashAssetsBeforeRuns": true,
+  "chromeWebSecurity": false,
+  "watchForFileChanges": false,
+  "videoUploadOnPasses": false,
+  "viewportHeight": 768,
+  "viewportWidth": 1440,
+  "defaultCommandTimeout": 100000,
+  "projectId": "v7hmoj"
+}

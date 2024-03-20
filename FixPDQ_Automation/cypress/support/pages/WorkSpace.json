@@ -1,0 +1,11 @@
+{
+    "workSpacePage":".ui.breadcrumb",
+    "workSpaceButton":".fix_background_black",
+    "workSpaceSearch":"[placeholder='SEARCH']",
+    "workSpaceFilterBar":".workitems-list-filter-section",
+    "workSpaceFilterOwner":"[data-cy='workitems-filter-user-button-87614']",
+    "workSpaceFiltercreatDate":"[data-cy='workitems-filter-button-8072']",
+    "workSpaceFilterPriority1":"[data-cy='workitems-filter-priority-difficulty-creator-button-42940']",
+    "workSpaceFilterPriority2":"[data-cy='workitems-filter-priority-difficulty-creator-button-39398']",
+    "workSpaceFilterCreator":"[data-cy='workitems-filter-priority-difficulty-creator-button-64703']"
+}

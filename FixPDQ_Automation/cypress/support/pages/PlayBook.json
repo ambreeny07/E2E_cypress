@@ -1,0 +1,9 @@
+{
+    "playBookButton":"[data-cy='playbooks-nav']",
+    "MyplayBookButton":"[data-cy='playbook-button-13882']",
+    "playBookStockButton":"[data-cy='playbook-button-97804']",
+    "filterBar":".PlayBookFilterBar",
+    "LikeIcon":".heart",
+    "SaveIcon":".download",
+    "cardUnderFilter":".card"
+}

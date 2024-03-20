@@ -1,0 +1,20 @@
+{
+    "filtericon":".filter",
+    "HorizontalMenu":"[style='justify-content: space-between;']",
+    "Popup":".popup",
+    "ViewAction":"VIEW ACTIONS",
+    "ViewActionIcon":".fix_icon_sort_down_8",
+    "ViewActionSelectAll":".popup>div>b",
+    "ViewActionCheckBox":"div>[type='checkbox']",
+     "ViewStatePlayIcon":"[src='https://fixpdq-users-dev-s3.s3.ap-southeast-2.amazonaws.com/workitem-status-icon/fix_workitem_state_active_c_20.svg']",
+     "ViewStatePauseIcon":"[src='https://fixpdq-users-dev-s3.s3.ap-southeast-2.amazonaws.com/workitem-status-icon/fix_workitem_state_onhold_c_20.svg']",
+     "ViewStatestepbackwardIcon":"[src='https://fixpdq-users-dev-s3.s3.ap-southeast-2.amazonaws.com/workitem-status-icon/fix_workitem_state_review_c_20.svg']",
+     "ViewStateundoIcon":"[src='https://fixpdq-users-dev-s3.s3.ap-southeast-2.amazonaws.com/workitem-status-icon/fix_workitem_state_reopen_c_20.svg']",
+     "ViewStateDotCircleIcon":"[src='https://fixpdq-users-dev-s3.s3.ap-southeast-2.amazonaws.com/workitem-status-icon/fix_workitem_state_open_c_20.svg']",
+     "ViewStateStopCircleIcon":"[src='https://fixpdq-users-dev-s3.s3.ap-southeast-2.amazonaws.com/workitem-status-icon/fix_workitem_state_done_c_20.svg']",
+     "WorkOnPriorityFlagIcon":"[data-icon='flag']",
+     "WorkOnPriorityPopup":".popup",
+     "ViewActionPopupSelectionButton":".popup>div>label",
+     "WorkOnPriorityCheckbox":"div>[type='checkbox']",
+     "DueDateIcon":"[data-icon='calendar-exclamation']"
+}

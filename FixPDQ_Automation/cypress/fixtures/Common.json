@@ -1,0 +1,15 @@
+{
+  "FiXPDQkeyURL": "https://www.fixpdq.app/",
+  "ValidPassword":"Test@1234567",
+  "RegisterInValidPassword":"Test",
+  "InValidPassword":"Test@1234569",
+  "ValidEmail":"ambreenfix@getnada.com",
+  "RegisteredInvalidEmail":"ambree@getnada.com",
+  "RegisteredEmail":"ambreensqa@getnada.com",
+  "InValidEmail":"ayounas.ai",
+  "User3Email":"ambreensqa@getnada.com",
+  "User3Password":"Test@1234567",
+  "speacialCharacters":"!@#$%^!@#$%^&"
+  
+
+}

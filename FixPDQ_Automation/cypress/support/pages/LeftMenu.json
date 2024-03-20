@@ -1,0 +1,14 @@
+{
+    "ProfileButton":"[data-cy='profile-nav-div-temp']",
+    "Leftmenu":".sidebar.left",
+    "FilterBox":".filter-container",
+    "SwarmList":"[data-cy='swarm-nav']",
+    "SwarmListOptions":"[data-cy='swarm-dropdown-dropdown-878']",
+    "AllSwarmButton":"[data-cy='swarm-management-header-button-24476']",
+    "TeamButton":"[data-cy='myteams-nav']>.at.icon.fix_icon_lmenu_grey3_14",
+    "MyTeamOption":"[data-cy='my-teams-nav']",
+    "MyTeamHeading":"[data-css-yc2v36]",
+    "PlayBoxButton":"[data-cy='playbooks-nav']",
+    "MyPlayBoxHeading":"[ata-cy='playbook-button-13882']",
+    "ProfilePageHeading":"th>h2"
+}

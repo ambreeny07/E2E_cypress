@@ -1,0 +1,29 @@
+{    
+
+    "Register_Email":"[data-cy='register-email-input']",
+    "Register_Password":"[data-cy='register-password-input']",
+    "Register_Button":"[data-cy='register-button']",
+    "Register_SignIn_Link":".App>div>div>div>div:nth-child(3)>div>p",
+    "Register_Heading":"div>h2",
+    "Register_Validation_Message":"div:nth-child(4)>p",
+    "Register_Confirm_Code_Button":".fix_menu_12",
+    "Register_FixPDQ_logo":"[alt='logo']",
+    "Register_AlreadyHaveAnAccountSignIn":".fix_paragraph_body_12.fix_color_magenta",
+    
+
+    "Login_Email":"[data-cy='email-form']",
+    "Login_Password":"[data-cy='password-form']",
+    "Login_Button":"[data-cy='login-button']",
+    "LoginScreen_SignUp":"[data-cy='sign-up-button']",
+    "Forget_Password":"p:nth-child(2)",
+    "Login_Validation_Message":"div:nth-child(4)>p",
+
+    "ForgetPassword_Email":"[data-cy='forgot-password-input-34532']",
+    "ForgetPassword_ConfirmationCode":"[data-cy='forgot-password-input-45696']",
+    "ForgetPassword_NewPassword":"[data-cy='forgot-password-input-24484']",
+    "ForgetPassword_ResetButton":"div>p",
+
+    "ForgetPassword_GetCodeButton":"div>p"
+
+
+}

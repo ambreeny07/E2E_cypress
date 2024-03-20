@@ -1,0 +1,4 @@
+{
+    "ProfileButton":"[data-cy='profile-nav-div-temp']",
+    "MyProfileLogOutButton":"[data-cy='profile-logout-button']"
+}

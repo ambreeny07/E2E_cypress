@@ -1,0 +1,52 @@
+{
+  "name": "fixpdq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "report": "node cucumber-html-report.js",
+    "chrome-test": "npx cypress run --browser chrome",
+    "chrome-tests-run": "npm run chrome-test || npm run report"
+  },
+  "dependencies": {
+    "bson": "^4.2.0",
+    "core-js": "^2.5.4",
+    "cypress-cucumber-preprocessor": "^4.2.0",
+    "dns": "^0.2.2",
+    "http2": "^3.3.7",
+    "kerberos": "^1.1.4",
+    "mocha": "^9.1.0"
+  },
+  "devDependencies": {
+    "cucumber": "^4.2.1",
+    "cypress-cucumber-preprocessor": "^4.2.0",
+    "cypress": "^8.4.0",
+    "cypress-localstorage-commands": "^1.2.3",
+    "cypress-multi-reporters": "^1.5.0",
+    "cypress-ntlm-auth": "^3.2.3",
+    "cypress-xpath": "^1.6.2",
+    "eslint": "^7.15.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-cucumber": "^1.2.0",
+    "eslint-plugin-cypress": "^2.1.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-json": "^2.1.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "gmail-tester": "^1.3.1",
+    "lodash": "^4.17.21",
+    "multiple-cucumber-html-reporter": "^1.18.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": false,
+    "stepDefinitions": "cypress/support/step_definitions",
+    "cucumberJson": {
+      "generate": true,
+      "outputFolder": "report/JSON",
+      "filePrefix": "",
+      "fileSuffix": ".cucumber"
+    },
+    "repository": {}
+  }
+}
